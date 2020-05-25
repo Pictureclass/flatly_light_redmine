@@ -1,6 +1,8 @@
 # Flatly light redmine theme #
 Modern and readability theme for Redmine.
 
+Saved and embedded the Lato font to local filesystem
+
 ## Installation
 
 * Download and unzip theme into your Redmine themes directory (e.g. ` ../public/themes/`)
